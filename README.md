@@ -46,7 +46,9 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+
+![WhatsApp Image 2024-09-25 at 13 02 01_22b06dca](https://github.com/user-attachments/assets/db922b96-2dd2-48be-9856-64c8d8ab1f73)
+
 
 
  
@@ -76,7 +78,9 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+
+![WhatsApp Image 2024-09-25 at 13 01 57_00ab5a92](https://github.com/user-attachments/assets/cb2549b6-e949-4627-8cf2-8eef96db282e)
+
 
 
  
@@ -90,19 +94,24 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+
+ ![WhatsApp Image 2024-09-25 at 12 58 39_5a3388d7](https://github.com/user-attachments/assets/c15d0a23-1024-468b-ab2b-7649248123a0)
+
 
 For Transient Analysis Settings and Output
  
  
  ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+ ![WhatsApp Image 2024-09-25 at 12 59 22_70bab829](https://github.com/user-attachments/assets/5c488573-3bab-4761-afc7-a3b5a9a160a3)
+
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![WhatsApp Image 2024-09-25 at 12 58 54_12f2aa48](https://github.com/user-attachments/assets/221e4fd2-30b1-403b-b358-8ba45a7822c8)
+
+
+![WhatsApp Image 2024-09-25 at 13 00 46_aa823c49](https://github.com/user-attachments/assets/b3e411f2-ee3c-45a5-9794-43d7b9c3bf70)
 
  
 
